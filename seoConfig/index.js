@@ -1,12 +1,12 @@
 export default {
-  title: "Logspot - Opensource changelog template",
+  title: "Russia Gosloto 7/49 Results",
   description:
-    "Logspot is an open source change log template made with Nuxt, Vue, and Tailwindcss.",
+    "Check the latest gosloto 7/49 results, predictions, hot and cold numbers daily. Visit and check 7/49 results.",
   og: {
-    title: "Logspot - Opensource changelog template",
+    title: "Russia Gosloto 7/49 Results",
     description:
-      "Logspot is an open source change log template made with Nuxt, Vue, and Tailwindcss.",
+      "Check the latest gosloto 7/49 results, predictions, hot and cold numbers daily. Visit and check 7/49 results.",
     image: "https://logspot.vercel.app/logspot-banner.png",
-    url: "https://logspot.vercel.app",
+    url: "https://russia-gosloto-749.vercel.app/",
   },
 };
