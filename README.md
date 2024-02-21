@@ -1,8 +1,6 @@
-# Logspot
+# Russia Gosloto Results 7/49
 
-Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss. 
-
-![image](https://user-images.githubusercontent.com/15716057/215351682-9f1032a5-7b71-4e5c-be22-951df57198d4.png)
+[Gosloto 7/49]{https://russiagosloto7x49.com/} will help you to provide the 7/49 results on time and punters can check it daily. 
 
 How it works?
 
