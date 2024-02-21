@@ -15,7 +15,6 @@
         <a
           class="text-primary underline"
           href="https://twitter.com/fayazara"
-          target="_blank"
           >gosloto 7/49</a
         >.
        on daily basis. In lottery gaming, the concept of "hot" and "cold" balls refers to 
