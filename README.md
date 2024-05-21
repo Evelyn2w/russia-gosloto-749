@@ -1,6 +1,6 @@
 # Russia Gosloto Results 7/49
 
-[Gosloto 7/49](https://russiagosloto7x49.com/) will help you to provide the 7/49 results on time and punters can check it daily. 
+[Gosloto7x49.com](https://russiagosloto7x49.com/) will help you to provide the 7/49 results on time and punters can check it daily. 
 
 How it works?
 
